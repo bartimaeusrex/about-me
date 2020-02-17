@@ -1,1 +1,1 @@
-# about-me
+# about-me"## Profiles * [LinkedIn] (https://www.linkedin.com/in/mrpatrickreinhart/) * [Twitter] (https://www.twitter.com/mrpatch) * [GoodReads] (https://www.goodreads.com/mrpatch/) ## Technical Skills * HTML * CSS * Adobe InDesign" 
